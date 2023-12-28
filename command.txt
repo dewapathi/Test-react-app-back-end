@@ -1,0 +1,6 @@
+npm init
+npm i
+npm i express
+npm i cors
+npm i nodemon -g
+npm i mongoose 
